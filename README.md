@@ -12,8 +12,8 @@
 - [药剂学专项领域学习](#special_learning)
 
 ##<h2 id="preparation">前言</h2>
-   我们要求把这些课程的所有Notes,Slides以及作者强烈推荐的论文看懂看明白，并完成所有的老师布置的习题，而推荐的书籍是不做要求的，如果有些书籍是需要看完的，我们会进行额外的说明。
-
+   暂无。
+   
 ##<h2 id="curriculum">课程列表</h2>
 
 课程 | 机构 | 参考书 | Notes等其他资料
@@ -81,20 +81,6 @@
 工业药剂学 | 暂无 | 暂无 |  暂无
 生物药剂学与药代动力学 | 暂无 | [生物药剂学与药代动力学(刘建平)](https://www.amazon.cn/%E7%94%9F%E7%89%A9%E8%8D%AF%E5%89%82%E5%AD%A6%E4%B8%8E%E8%8D%AF%E7%89%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6/dp/B005JAKR54) |  暂无
 药物制剂新技术 | 暂无 | 暂无 |  暂无
-
-
-##<h2 id="booklists">推荐书籍列表</h2>
-   以下推荐的书籍都是公认的机器学习领域界的好书，建议**一般难度的书籍至少详细阅读一本，建议看两本**，而较难的书籍不做任何要求，大家可以在学有余力时细细品味经典。
-
-书名 | 难度
-:-- | :--: 
-[统计学习方法](https://www.amazon.cn/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95-%E6%9D%8E%E8%88%AA/dp/B007TSFMTA) | 一般
- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | 一般
-[Machine Learning](https://www.amazon.com/gp/product/0071154671?ie=UTF8&tag=jefork-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0071154671) | 一般
-[Learning from Data](https://www.amazon.com/gp/product/1600490069) | 一般，[配套讲义](https://work.caltech.edu/telecourse.html)
-[Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_sim_14_1?ie=UTF8&dpID=61f0EXfMRvL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难(偏贝叶斯)
-[The Elements of Statistical Learning](https://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576/ref=pd_sim_14_2?ie=UTF8&dpID=41LeU3HcBdL&dpSrc=sims&preST=_AC_UL160_SR103%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难
-[Understanding Machine Learning:From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) | 较难
 
 ##<h3 id="special_learning">药剂学专项领域学习</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有十分扎实的药剂学基础了，已经是一名合格的药剂学成员了，可以较为顺利的进入下面专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，主要是一些会议期刊！如果不清楚，那么大家可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。

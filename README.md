@@ -8,8 +8,7 @@
  - [药剂学课程初级](#pharmaceutics_basic) 
  - [必修课程中级](#must_median)
  - [药剂学课程中级](#pharmaceutics_median) 
- 
-- [推荐书籍列表](#booklists)
+
 - [药剂学专项领域学习](#special_learning)
 
 ##<h2 id="preparation">前言</h2>
@@ -30,7 +29,15 @@
 药剂学 | 暂无 | [药剂学(人民卫生出版社)](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00EKBCXDM) | 暂无
 药物分析 | 暂无 | [药物分析(人民卫生出版社)](https://www.amazon.cn/%E8%8D%AF%E7%89%A9%E5%88%86%E6%9E%90/dp/B005JAKRP4) | 暂无
 药物毒理学 | 暂无 | [药物毒理学(人民卫生出版社)](https://www.amazon.cn/%E8%8D%AF%E7%89%A9%E6%AF%92%E7%90%86%E5%AD%A6/dp/B005IVGDRA) | 暂无
-
+药物设计学 | 暂无 | [药学设计学(徐文方)](https://www.amazon.cn/%E8%8D%AF%E7%89%A9%E8%AE%BE%E8%AE%A1%E5%AD%A6/dp/B005JAKRYA) | 暂无 
+药动学与药效学 | 暂无 | 暂无 | 暂无
+分子药理学 | 暂无 | 暂无 |  暂无
+波谱解析 | 暂无 | [波谱解析(孔令义)](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01GC0SCRE) |  暂无
+药用高分子材料 | 暂无 | 暂无 | 暂无
+物理药剂学 | 暂无 | 暂无 |  暂无
+工业药剂学 | 暂无 | 暂无 |  暂无
+生物药剂学与药代动力学 | 暂无 | [生物药剂学与药代动力学(刘建平)](https://www.amazon.cn/%E7%94%9F%E7%89%A9%E8%8D%AF%E5%89%82%E5%AD%A6%E4%B8%8E%E8%8D%AF%E7%89%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6/dp/B005JAKR54) |  暂无
+药物制剂新技术 | 暂无 | 暂无 |  暂无
 
 ##<h2 id="learning_route">推荐学习路线</h2>
 
@@ -60,19 +67,20 @@
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-矩阵论 | 暂无 | [矩阵论](https://www.amazon.cn/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E6%88%B4%E5%8D%8E/dp/B00116BRO0/ref=sr_1_1?s=books&ie=UTF8&qid=1478614198&sr=1-1&keywords=%E6%88%B4%E5%8D%8E%EF%BC%8C+%E7%9F%A9%E9%98%B5%E8%AE%BA) | 暂无 
-[凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html)
-[凸优化2](https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20)| Stanford | 暂无 |  [链接](http://stanford.edu/class/ee364b/)
-
+药物设计学 | 暂无 | [药学设计学(徐文方)](https://www.amazon.cn/%E8%8D%AF%E7%89%A9%E8%AE%BE%E8%AE%A1%E5%AD%A6/dp/B005JAKRYA) | 暂无 
+药动学与药效学 | 暂无 | 暂无 | 暂无
+分子药理学 | 暂无 | 暂无 |  暂无
+波谱解析 | 暂无 | [波谱解析(孔令义)](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01GC0SCRE) |  暂无
 
 ###<h3 id="pharmaceutics_median">药剂学课程中级</h3> 
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[机器学习基石](https://www.coursera.org/instructor/htlin)| NTU | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall/)
-[机器学习技法](https://www.coursera.org/instructor/htlin)| NTU | 暂无 | [链接](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
-[机器学习](http://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)| Stanford |暂无| [链接](http://cs229.stanford.edu/materials.html)
-[机器学习](https://www.youtube.com/watch?v=mbyG85GZ0PI&index=1&list=PLD63A284B7615313A)| Caltech | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](http://work.caltech.edu/lectures.html)
+药用高分子材料 | 暂无 | 暂无 | 暂无
+物理药剂学 | 暂无 | 暂无 |  暂无
+工业药剂学 | 暂无 | 暂无 |  暂无
+生物药剂学与药代动力学 | 暂无 | [生物药剂学与药代动力学(刘建平)](https://www.amazon.cn/%E7%94%9F%E7%89%A9%E8%8D%AF%E5%89%82%E5%AD%A6%E4%B8%8E%E8%8D%AF%E7%89%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6/dp/B005JAKR54) |  暂无
+药物制剂新技术 | 暂无 | 暂无 |  暂无
 
 
 ##<h2 id="booklists">推荐书籍列表</h2>
@@ -88,25 +96,21 @@
 [The Elements of Statistical Learning](https://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576/ref=pd_sim_14_2?ie=UTF8&dpID=41LeU3HcBdL&dpSrc=sims&preST=_AC_UL160_SR103%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难
 [Understanding Machine Learning:From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) | 较难
 
-##<h3 id="special_learning">机器学习专项领域学习</h3>
-如果您已经完成了上述的所有科目，恭喜您已经拥有十分扎实的机器学习基础了，已经是一名合格的机器学习成员了，可以较为顺利的进入下面某一专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，当然这些领域不能涵盖所有，还有很多领域没有整理（希望大家一起完善），如果这些领域适合你，那就继续加油！如果不清楚，那么大家可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。
-
-###<h3 id="special_learning_data">一些专项领域资料</h3>
-- [深度学习](https://github.com/JustFollowUs/Deep-Learning)
-- [图模型](https://github.com/JustFollowUs/Probabilistic-graphical-models)
-- [强化学习](https://github.com/JustFollowUs/Reinforcement-Learning)
-- 其他(尚未完善)
+##<h3 id="special_learning">药剂学专项领域学习</h3>
+如果您已经完成了上述的所有科目，恭喜您已经拥有十分扎实的药剂学基础了，已经是一名合格的药剂学成员了，可以较为顺利的进入下面专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，主要是一些会议期刊！如果不清楚，那么大家可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。
 
 ###<h3 id="special_learning_data">领域会议期刊</h3>
-- [NIPS](https://nips.cc/)
-- [ICML](http://icml.cc/)
-- [AAAI](http://www.aaai.org/)
-- [IJCAI](http://www.ijcai.org/)
-- [KDD](http://www.kdd.org/)
-- [ICDM](http://www.cs.uvm.edu/~icdm/)
-- [COLT](http://www.learningtheory.org/)
-- 其他(尚未完善)
-
+名称 | 会议or期刊
+:-- | :--: 
+[中国药物制剂大会](http://www.dds-china.org/2016/Cn/) | 会议
+[SIPCD](http://www.sipcd.com/) | 会议
+[ACS Nano](http://pubs.acs.org/journal/ancac3) | 期刊
+[Journal of Controlled Release](http://www.journals.elsevier.com/journal-of-controlled-release/) | 期刊
+[JACS](http://pubs.acs.org/journal/jacsat) | 期刊
+[Biomaterials](http://www.sciencedirect.com/science/journal/01429612) | 期刊
+[European Journal of Pharmaceutical Sciences](http://www.sciencedirect.com/science/journal/09280987) | 期刊
+[International Journal of Pharmaceutics](http://www.sciencedirect.com/science/journal/03785173) | 期刊
+[Biomacromolecules]http://pubs.acs.org/journals/bomaf6/index.html  | 期刊
 
 
 

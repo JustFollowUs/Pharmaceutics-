@@ -110,7 +110,7 @@
 [Biomaterials](http://www.sciencedirect.com/science/journal/01429612) | 期刊
 [European Journal of Pharmaceutical Sciences](http://www.sciencedirect.com/science/journal/09280987) | 期刊
 [International Journal of Pharmaceutics](http://www.sciencedirect.com/science/journal/03785173) | 期刊
-[Biomacromolecules]http://pubs.acs.org/journals/bomaf6/index.html  | 期刊
+[Biomacromolecules](http://pubs.acs.org/journals/bomaf6/index.html)  | 期刊
 
 
 
